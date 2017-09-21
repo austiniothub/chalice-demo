@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "api_handler_name": "helloworld-dev",
+    "api_handler_arn": "arn:aws:lambda:us-east-2:597248753215:function:helloworld-dev",
+    "lambda_functions": {},
+    "backend": "api",
+    "chalice_version": "1.0.2",
+    "rest_api_id": "wo5wzg2ky3",
+    "api_gateway_stage": "api",
+    "region": "us-east-2"
+  }
+}
